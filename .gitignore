@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+*.tmp
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 系统与日志
+*.log
